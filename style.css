@@ -4,15 +4,21 @@ body {
     margin: 0;
 }
 
-a {
-    color: white;
+a,
+a:visited,
+a:hover,
+a:active {
+    color: #856037;
     text-decoration: none;
     margin: 5px;
+    font-family: Georgia, serif;
+    font-size: 18px;
 }
 
 body {
     margin: 0;
 }
+
 footer {
     margin-top: auto;
 }
